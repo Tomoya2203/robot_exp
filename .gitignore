@@ -1,0 +1,6 @@
+*.png
+*.jpeg
+*.jpg
+/hsr_sim_obj_1000/
+/all_file/
+/output/
